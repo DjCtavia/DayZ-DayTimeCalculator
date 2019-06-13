@@ -176,12 +176,12 @@ namespace TimeManager_DayZ
             string dayMultiplier = CalculDayTime.GetPercent(86400, CalculDayTime.GetTimeInSeconds(dayHours, dayMinutes, daySeconds)).ToString();
             string nightMultiplier;
 
-            dayMultiplier.Replace(',', '.');
+            dayMultiplier = dayMultiplier.Replace(',', '.');
             richTextBox1.Text = "serverTimeAcceleration=" + dayMultiplier + "; // Must be in range of 64-0.1";
             if (IsNightTime.Checked)
             {
                 nightMultiplier = CalculDayTime.GetPercent(CalculDayTime.GetTimeInSeconds(dayHours, dayMinutes, daySeconds), CalculDayTime.GetTimeInSeconds(nightHours, nightMinutes, nightSeconds)).ToString();
-                nightMultiplier.Replace(',', '.');
+                nightMultiplier = nightMultiplier.Replace(',', '.');
                 richTextBox1.AppendText("\nserverNightTimeAcceleration=" + nightMultiplier + "; // Must be in range of 64-0.1");
                 richTextBox1.AppendText("\n\n// Careful, if you change Day duration, you need to uncheck and recheck 'Consider night duration', min-max range is not updated by default for night.");
             }
