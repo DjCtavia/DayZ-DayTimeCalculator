@@ -1,6 +1,7 @@
 # DayZ-DayTimeCalculator
 
 It's basicly a tool for calculate the duration of a day.
-In real life a day dure for 24 hours. In DayZ you can change it to be longer or shorter.
+Without modification, a normal day in DayZ is equivalent to the usual day (24 hours duration).
 
-Night time cycle can be speed up too, or slowed down.
+But with this tool, we can obtain a specific duration from hours, minutes and seconds, and convert this duration into multiplication.
+Day and Night time cycle can be speed up too, or slowed down.
