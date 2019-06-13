@@ -1,0 +1,10 @@
+C:\Users\DjCtavia\source\repos\TimeManager-DayZ\TimeManager-DayZ\bin\Debug\TimeManager-DayZ.exe.config
+C:\Users\DjCtavia\source\repos\TimeManager-DayZ\TimeManager-DayZ\bin\Debug\TimeManager-DayZ.exe
+C:\Users\DjCtavia\source\repos\TimeManager-DayZ\TimeManager-DayZ\bin\Debug\TimeManager-DayZ.pdb
+C:\Users\DjCtavia\source\repos\TimeManager-DayZ\TimeManager-DayZ\obj\Debug\TimeManager_DayZ.Form1.resources
+C:\Users\DjCtavia\source\repos\TimeManager-DayZ\TimeManager-DayZ\obj\Debug\TimeManager_DayZ.Properties.Resources.resources
+C:\Users\DjCtavia\source\repos\TimeManager-DayZ\TimeManager-DayZ\obj\Debug\TimeManager-DayZ.csproj.GenerateResource.cache
+C:\Users\DjCtavia\source\repos\TimeManager-DayZ\TimeManager-DayZ\obj\Debug\TimeManager-DayZ.csproj.CoreCompileInputs.cache
+C:\Users\DjCtavia\source\repos\TimeManager-DayZ\TimeManager-DayZ\obj\Debug\TimeManager-DayZ.exe
+C:\Users\DjCtavia\source\repos\TimeManager-DayZ\TimeManager-DayZ\obj\Debug\TimeManager-DayZ.pdb
+C:\Users\DjCtavia\source\repos\TimeManager-DayZ\TimeManager-DayZ\obj\Debug\TimeManager-DayZ.csprojAssemblyReference.cache
